@@ -1,0 +1,2 @@
+Found the openssl.yar file here:
+https://www.akamai.com/blog/security-research/openssl-vulnerability-how-to-effectively-prepare
